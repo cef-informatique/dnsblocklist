@@ -134,3 +134,10 @@
 0.0.0.0  www-serravalleatelier.com
 0.0.0.0  mode-saint.fr
 0.0.0.0  padelofficiel.com
+# Non safesearch search engines
+0.0.0.0  yandex.com
+0.0.0.0  www.yandex.com
+0.0.0.0  projectsearch.yacy.net
+0.0.0.0  yacy.net
+0.0.0.0  search.yahoo.com
+0.0.0.0  www.search.yahoo.com
